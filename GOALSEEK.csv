@@ -1,0 +1,7 @@
+Rate per annum,,interest rate
+no. of monthly payment,360,NPERT
+loan amt,5000000,loan-amt
+type,0,type
+EMI,,EMI
+,,
+,,"CODE=PMT(C2/12, C3, -C4, 0, C5)"
